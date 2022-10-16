@@ -10,7 +10,6 @@ CSS on the frontend, NodeJS and Express on the backend to build single page appl
 ## 🔗 Links
 <div>
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://msnimish.github.io/)
-
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msnimish/)
 </div>
 
