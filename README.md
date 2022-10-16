@@ -28,8 +28,16 @@ CSS on the frontend, NodeJS and Express on the backend to build single page appl
 
 
 ## 🛠 Skills
-<img src="./Images/react.svg" width=100 height=100>
-<img src="./Images/logo-javascript.svg" width=100 height=100>
-<img src="./Images/1200px-HTML5_Badge.svg.png" width=100 height=100>
-<img src="./Images/css logo.png" width=100 height=100>
+<div class="logo">
+<img src="./Images/react.svg" width=50 height=50>
+<img src="./Images/logo-javascript.svg" width=50 height=50>
+<img src="./Images/1200px-HTML5_Badge.svg.png" width=50 height=50>
+<img src="./Images/css logo.png" width=100 height=50>
+</div>
+
+<style>
+  .logo{
+    display:flex;
+  }
+</style>
 
