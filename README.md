@@ -3,7 +3,7 @@
 ## 🚀 About Me
 Analytical and 🔎 detail-oriented aspiring Full Stack Developer.
 Capable of writing 📃production-ready code using ReactJS, Redux, and 
-CSS on the frontend, NodeJS and Express on the backend to build single page applications. My key strength is my observation skills which I use to identify problems and resolve them once the problem is completely understood.
+CSS on the frontend, NodeJS and Express on the backend to build single page applications. My key strength is my observation skills which I use to identify problems and resolve them.
 💯 Passionate about problem-solving, coding and strongly interested in working in a product-based company.
 
 
