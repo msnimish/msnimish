@@ -3,8 +3,8 @@
 ## 🚀 About Me
 Analytical and 🔎 detail-oriented aspiring Full Stack Developer.
 Capable of writing 📃production-ready code using ReactJS, Redux, and 
-CSS on the frontend, NodeJS and Express on the backend to build single page applications. 
-💯 Passionate about coding and strongly interested in working in a product-based company.
+CSS on the frontend, NodeJS and Express on the backend to build single page applications. My key strength is my observation skills which I use to identify problems and resolve them.
+💯 Passionate about problem-solving, coding and strongly interested in working in a product-based company.
 
 
 ## 🔗 Links
@@ -12,13 +12,12 @@ CSS on the frontend, NodeJS and Express on the backend to build single page appl
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msnimish/)
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on... 
 
 🧠 I'm currently learning MERN Stack
 
-👯‍♀️ I'm looking to collaborate on...
+👯‍♀️ I'm looking to collaborate on any real world problem solving project.
 
-🤔 I'm looking for help with start my journey as ful
+🤔 I'm looking for help with start my journey as Full Stack Web Developer
 
 💬 Ask me about DSA, JavaScript, CSS
 
