@@ -31,6 +31,8 @@ CSS on the frontend, NodeJS and Express on the backend to build single page appl
 <img src="./Images/logo-javascript.svg" width=50 height=50>
 <img src="./Images/1200px-HTML5_Badge.svg.png" width=50 height=50>
 <img src="./Images/css logo.png" width=50 height=50>
+<img src="./Images/node-js-icon-png.png" width=50 height=50>
+<img src="./Images/MongoDB-Logo.jpg" width=50 height=50>
 </div>
 
 <!-- <style>
